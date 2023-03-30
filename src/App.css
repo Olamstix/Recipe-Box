@@ -39,3 +39,8 @@
   right: 5%;
   color: #00c6fb;
 }
+
+p {
+  padding: 0 15px 0 15px;
+  text-align: center;
+}
